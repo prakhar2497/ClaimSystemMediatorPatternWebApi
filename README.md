@@ -1,1 +1,1 @@
-# ClaimSystemMediatorPatternWebApi
+# ClaimManagementSystem
