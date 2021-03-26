@@ -1,0 +1,9 @@
+G:\C# Stuff\ClaimTrackingSystem\UserService.Domain\bin\Debug\netcoreapp3.1\ClaimTrackingSystem.Domain.deps.json
+G:\C# Stuff\ClaimTrackingSystem\UserService.Domain\bin\Debug\netcoreapp3.1\ClaimTrackingSystem.Domain.dll
+G:\C# Stuff\ClaimTrackingSystem\UserService.Domain\bin\Debug\netcoreapp3.1\ClaimTrackingSystem.Domain.pdb
+G:\C# Stuff\ClaimTrackingSystem\UserService.Domain\obj\Debug\netcoreapp3.1\ClaimTrackingSystem.Domain.AssemblyInfoInputs.cache
+G:\C# Stuff\ClaimTrackingSystem\UserService.Domain\obj\Debug\netcoreapp3.1\ClaimTrackingSystem.Domain.AssemblyInfo.cs
+G:\C# Stuff\ClaimTrackingSystem\UserService.Domain\obj\Debug\netcoreapp3.1\ClaimTrackingSystem.Domain.csproj.CoreCompileInputs.cache
+G:\C# Stuff\ClaimTrackingSystem\UserService.Domain\obj\Debug\netcoreapp3.1\ClaimTrackingSystem.Domain.dll
+G:\C# Stuff\ClaimTrackingSystem\UserService.Domain\obj\Debug\netcoreapp3.1\ClaimTrackingSystem.Domain.pdb
+G:\C# Stuff\ClaimTrackingSystem\UserService.Domain\obj\Debug\netcoreapp3.1\ClaimTrackingSystem.Domain.csprojAssemblyReference.cache

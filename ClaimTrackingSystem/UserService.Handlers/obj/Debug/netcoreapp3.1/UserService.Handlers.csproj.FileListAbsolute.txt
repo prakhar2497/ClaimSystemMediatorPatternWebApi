@@ -1,0 +1,4 @@
+G:\C# Stuff\ClaimTrackingSystem\UserService.Handlers\obj\Debug\netcoreapp3.1\UserService.Handlers.csprojAssemblyReference.cache
+G:\C# Stuff\ClaimTrackingSystem\UserService.Handlers\obj\Debug\netcoreapp3.1\UserService.Handlers.AssemblyInfoInputs.cache
+G:\C# Stuff\ClaimTrackingSystem\UserService.Handlers\obj\Debug\netcoreapp3.1\UserService.Handlers.AssemblyInfo.cs
+G:\C# Stuff\ClaimTrackingSystem\UserService.Handlers\obj\Debug\netcoreapp3.1\UserService.Handlers.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+G:\C# Stuff\ClaimTrackingSystem\UserService.Data\bin\Debug\netcoreapp3.1\UserService.Data.deps.json
+G:\C# Stuff\ClaimTrackingSystem\UserService.Data\bin\Debug\netcoreapp3.1\UserService.Data.dll
+G:\C# Stuff\ClaimTrackingSystem\UserService.Data\bin\Debug\netcoreapp3.1\UserService.Data.pdb
+G:\C# Stuff\ClaimTrackingSystem\UserService.Data\bin\Debug\netcoreapp3.1\UserService.Application.dll
+G:\C# Stuff\ClaimTrackingSystem\UserService.Data\bin\Debug\netcoreapp3.1\UserService.Domain.dll
+G:\C# Stuff\ClaimTrackingSystem\UserService.Data\bin\Debug\netcoreapp3.1\UserService.Application.pdb
+G:\C# Stuff\ClaimTrackingSystem\UserService.Data\bin\Debug\netcoreapp3.1\UserService.Domain.pdb
+G:\C# Stuff\ClaimTrackingSystem\UserService.Data\obj\Debug\netcoreapp3.1\UserService.Data.csprojAssemblyReference.cache
+G:\C# Stuff\ClaimTrackingSystem\UserService.Data\obj\Debug\netcoreapp3.1\UserService.Data.AssemblyInfoInputs.cache
+G:\C# Stuff\ClaimTrackingSystem\UserService.Data\obj\Debug\netcoreapp3.1\UserService.Data.AssemblyInfo.cs
+G:\C# Stuff\ClaimTrackingSystem\UserService.Data\obj\Debug\netcoreapp3.1\UserService.Data.csproj.CoreCompileInputs.cache
+G:\C# Stuff\ClaimTrackingSystem\UserService.Data\obj\Debug\netcoreapp3.1\UserService.Data.csproj.CopyComplete
+G:\C# Stuff\ClaimTrackingSystem\UserService.Data\obj\Debug\netcoreapp3.1\UserService.Data.dll
+G:\C# Stuff\ClaimTrackingSystem\UserService.Data\obj\Debug\netcoreapp3.1\UserService.Data.pdb
